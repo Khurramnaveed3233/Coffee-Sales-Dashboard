@@ -1,8 +1,8 @@
-# Coffee Sales Analyzing Dashboard
+#  Coffee Sales Analysis Dashboard – Excel Business Intelligence
+
 
 ![cofee](https://github.com/user-attachments/assets/dbf9d88e-6962-46db-8c61-eb32376577f1)
 
-#  Coffee Sales Analysis Dashboard – Excel Business Intelligence
 
 > **Role:** Data Analyst | **Tools:** Microsoft Excel · Pivot Tables · Dynamic Charts · Slicers | **Domain:** FMCG · Retail · Sales Analytics
 
