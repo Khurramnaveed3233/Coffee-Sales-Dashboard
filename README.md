@@ -153,12 +153,6 @@ Coffee sales leadership had no centralized tool to answer:
 
 ---
 
-## Dashboard Preview
-
-![Coffee Sales Dashboard](Coffee%20Sales%20Dashboard.jpg)
-
----
-
 ## About
 
 **Khurram Naveed** — Data Analyst specializing in Excel, SQL, Power BI, and business intelligence.
